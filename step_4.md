@@ -14,7 +14,7 @@ This HTML code adds a heading in the `div` with the class name `cd-logo`:
 ```html
   <div class="cd-logo">
     <div class="caption">
-      <span class="border" >RECIPES WITH CODERDOJO</span>
+      <span class="border" >RECIPES WITH CODERDOJO </span>
     </div>
   </div>
 ```
